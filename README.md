@@ -4,6 +4,36 @@
 
 Soy un apasionado por la tecnología y el desarrollo de software. Tengo conocimientos en:
 
+- 🧠 **PseInt** – Resolución de problemas algorítmicos básicos  
+- 🌐 **HTML & CSS** – Creación y diseño de sitios web  
+- 🐍 **Python** – Automatización, lógica y estructuras básicas
+
+🔧 Actualmente estoy enfocándome en aprender y aplicar **buenas prácticas de programación**, mientras mejoro mis habilidades tanto en **Frontend** como en **Backend**.
+
+---
+
+## 🚀 Objetivos
+
+- Aprender nuevas tecnologías y frameworks  
+- Perfeccionar mis habilidades en desarrollo web  
+- Contribuir a proyectos que generen impacto  
+
+---
+
+## 📫 ¿Cómo contactarme?
+
+- 📧 amayaanderson108@gmail.com  
+- 🌍 GitHub: [github.com/CLEV769](https://github.com/CLEV769)
+
+---
+
+> *"El aprendizaje constante es el camino para dominar el arte del código."*
+# 👋 Hola, soy Clever Amaya
+
+🎯 **Analista y Desarrollador de Software**
+
+Soy un apasionado por la tecnología y el desarrollo de software. Tengo conocimientos en:
+
 - 🧠 **PseInt** – Resolución de problemas algorítmicos básicos
 - 🌐 **HTML & CSS** – Creación y diseño de sitios web
 - 🐍 **Python** – Automatización, lógica y estructuras básicas
