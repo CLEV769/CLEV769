@@ -82,7 +82,6 @@ Soy un apasionado por la tecnología y el desarrollo de software. Tengo conocimi
 
 > *"El aprendizaje constante es el camino para dominar el arte del código."*
 
-## Hi there 👋
 
 <!--
 **CLEV769/CLEV769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
