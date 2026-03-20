@@ -5,7 +5,9 @@
 Soy un apasionado por la tecnología y el desarrollo de software. Tengo conocimientos en:
 
 - 🧠 **PseInt** – Resolución de problemas algorítmicos básicos  
-- 🌐 **HTML & CSS** – Creación y diseño de sitios web  
+- 🌐 **HTML & CSS** – Creación y diseño de sitios web
+- ⚡ JavaScript – Interactividad en páginas web y lógica del lado del cliente
+- ☕ Java – Desarrollo de aplicaciones, programación orientada a objetos y conexión con bases de datos
 - 🐍 **Python** – Automatización, lógica y estructuras básicas
 
 🔧 Actualmente estoy enfocándome en aprender y aplicar **buenas prácticas de programación**, mientras mejoro mis habilidades tanto en **Frontend** como en **Backend**.
